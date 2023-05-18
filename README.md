@@ -1,4 +1,4 @@
-# Binary Tree Traversal
+<h1 align='center'>Binary Tree Traversal</h1>
 
 This repository contains Python code for performing in-order, pre-order, and post-order traversals of a binary tree.
 
