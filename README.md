@@ -6,7 +6,7 @@ This repository contains Python code for performing in-order, pre-order, and pos
 
 - [Description](#description)
 - [Usage](#usage)
-- [License](#license)
+- [License](https://github.com/Ashley-Lijin/Binary-Tree-Traversal/blob/main/LICENSE)
 
 ## Description
 
@@ -25,5 +25,5 @@ The code in this repository demonstrates how to traverse a binary tree using dif
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/binary-tree-traversal.git
+git clone https://github.com/your-username/binary-tree-traversal.git](https://github.com/Ashley-Lijin/Binary-Tree-Traversal/tree/main
 ```
